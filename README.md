@@ -1,183 +1,73 @@
-# portfolio-website-
-Project Parts
 # Personal Portfolio Website
+
 Jonathan Noorollah
 
-## Project Overview
+ PART 1: CONTENT
 
-This project is a personal portfolio website created completely from scratch using HTML, CSS, and JavaScript. The goal of the website is to professionally present my skills, education, and experience in computer science.
+ 1. What is your full name as you want it displayed professionally?
 
-The website showcases programming knowledge, technical experience, and professional background while providing visitors with an easy way to view my work and contact me.
+My full name will be displayed professionally as **Jonathan Noorollah**.
 
-The website is hosted using GitHub Pages.
 
-# Target Audience
+ 2. What is the purpose of your portfolio website?
 
-The main audience for this portfolio website includes:
+The purpose of this portfolio website is to create a positive and professional online presence. The website will introduce my background, education, and technical abilities as a Computer Science student. It will allow visitors to learn more about my experience and view my resume.
 
-• Technology employers and recruiters  
-• Hiring managers looking for software developers  
-• Internship coordinators  
-• Peers and classmates interested in viewing technical projects
-• Professor
 
-The website is designed to present information clearly and professionally so visitors can quickly understand my skills and experience.
+ 3. Who is the target audience (employers, clients, peers, etc.)?
 
-# Content Strategy
+The target audience includes employers, potential clients, peers, classmates, and anyone interested in learning more about my background and skills.
 
-## Full Name
-Jonathan Noorollah
 
-## Purpose of the Website
+ 4. What skills do you want to highlight?
 
-The purpose of this portfolio website is to present my technical background, programming skills, and professional experience to potential employers and collaborators.
+The skills I want to highlight are the ones listed in my resume. These include programming languages such as Java, Python, and C++, as well as experience with **SQL, Git, troubleshooting, and technical problem solving**.
 
-## Career Goal
 
-My goal is to work in the technology industry as a **software developer or software engineer**, where I can apply programming and problem-solving skills to real-world systems.
+ 5. What projects or work will you showcase?
 
-# Professional Bio
+At this time, I do not plan to showcase specific projects. The website will mainly focus on presenting my **resume, skills, and professional background**.
 
-I am a Computer Science student at Farmingdale State College pursuing a Bachelor of Science degree. I have experience in programming, technical troubleshooting, and team leadership. My background includes work in technical support, customer service, and medical record management.
 
-Through my coursework and professional experience, I have developed strong analytical skills and a passion for building efficient software solutions.
+ 6. How will you describe yourself in a short professional bio?
 
-# Skills
+My professional bio will be based on the description in my resume. I will describe myself as a Computer Science student with experience in technical support, leadership, and problem solving**, along with an interest in technology and software development.
 
-### Programming
-• Java  
-• Python  
-• C++
+ 7. What pages will your site include (Home, About, Projects, Contact, etc.)?
 
-### Technical Skills
-• Data Structures and Algorithms  
-• SQL and Database Management  
-• Git and Version Control  
-• Debugging and Troubleshooting  
+The website will include the following pages:
 
-### Tools
-• Visual Studio  
-• GitHub  
-• Development IDEs
+Home – Introduction and overview of the website
+About – Information about my background and education
+Resume – A downloadable version of my resume
+Contact – Information on how visitors can reach me
 
-# Projects to Showcase
 
-### Data Structures Projects
-Projects demonstrating implementation of algorithms such as sorting methods and graph algorithms.
+ 8. What is your career goal or desired role?
 
-### Priority Queue Scheduling Simulation
-A program demonstrating how priority queues can be used to manage scheduling tasks such as print jobs.
+My career goal is to work in the computer science and technology field, particularly in areas related to information technology, software engineering, or other technical roles**.
 
-### Merge Sort for Linked Lists
-Implementation of merge sort adapted for linked list structures in Java.
 
-# Information Organization
+ 9. What technologies or tools do you have experience with?
 
-The website contains the following pages:
+My experience with technology mainly comes from college coursework, programming assignments, and personal computer use on my MacBook**. Through my classes, I have gained experience with programming languages and general computer science tools.
 
-Home  
-Introduction and navigation to all sections of the website.
 
-About  
-Information about my education, background, and skills.
+ 10. What achievements or experiences are worth highlighting?
 
-Projects  
-Descriptions of programming and technical projects.
+The achievements and experiences worth highlighting are those included in my resume, including my education in Computer Science, professional work experience, leadership roles, and technical skills**.
 
-Contact  
-Ways for visitors to reach me.
 
-Resume  
-Downloadable PDF resume.
+ 11. What call-to-action should visitors take (contact you, view projects, download resume)?
 
-# Visual Design
+Visitors to the website will be able to view my background information, download my resume, or contact me if they want more information. The site will be open for anyone who wants to learn more about my experience.
 
-The visual design focuses on simplicity and professionalism.
 
-Design goals include:
+ 12. Will you include a resume? In what format?
 
-• Clean layout  
-• Easy navigation  
-• Clear content sections  
-• Responsive design for desktop and mobile devices
+Yes. My resume will be included on the website as a downloadable PDF file.
 
-### Color Scheme
 
-Primary: Dark Blue / Dark Gray  
-Secondary: White background  
-Accent: Blue highlights for buttons and links
+ 13. What social or professional links will you include (GitHub, LinkedIn, etc.)?
 
-### Typography
-
-Simple sans-serif fonts will be used to ensure readability.
-
-# Wireframe Layout
-
-Example layout for the home page:
-
-Navigation Bar  
-(Home | About | Projects | Contact)
-
-Profile Section  
-Name  
-Short introduction
-
-Call to Action Buttons  
-View Projects  
-Download Resume
-
-Footer  
-Links to GitHub, LinkedIn, and email
-
-# Interaction / Functionality
-
-Interactive elements will include:
-
-• Navigation menu between pages  
-• Buttons linking to projects and resume  
-• Contact links  
-• Basic JavaScript for page interaction  
-• Responsive design for different screen sizes
-
-# Technical Overview
-
-Technologies used:
-
-• HTML5 for structure  
-• CSS3 for styling  
-• JavaScript for interactivity  
-• GitHub for version control  
-• GitHub Pages for hosting
-
-All code will be written manually and properly commented.
-
-# External Resources
-
-GitHub Pages Documentation  
-https://docs.github.com/en/pages/getting-started-with-github-pages
-
-MDN Web Docs  
-https://developer.mozilla.org
-
-W3Schools  
-https://www.w3schools.com
-
-# Timeline / Milestones
-
-Week 1  
-Plan content and design
-
-Week 2  
-Create wireframes and repository structure
-
-Week 3  
-Develop HTML pages
-
-Week 4  
-Implement CSS styling
-
-Week 5  
-Add JavaScript functionality
-
-Week 6  
-Test and deploy website on GitHub Pages
+At this time, I do not plan to include any social or professional links such as GitHub or LinkedIn.
